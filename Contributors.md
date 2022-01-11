@@ -4479,4 +4479,5 @@ Michael Wong
 - [Rajendra](https://github.com/rajendra-tamboli)
 - [Harshil Bhatia](https://github.com/harshilbhatia7)
 - [Ruslan Kossak] (https://github.com/tredstart)
+- [Raunak Thakur] (https://github.com/Raunak-lab)
 <!-- prettier-ignore-end -->
